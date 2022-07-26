@@ -1,0 +1,29 @@
+{
+  "name": "my-vue-app",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/vue-fontawesome": "^3.0.0-5",
+    "axios": "^0.27.2",
+    "loadsh": "^0.0.4",
+    "vue": "^3.2.37",
+    "vue-awesome": "^4.5.0",
+    "vue-router": "^4.1.2",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.0",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.6",
+    "vite": "^3.0.0"
+  }
+}
